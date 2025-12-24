@@ -1,3 +1,5 @@
+Beginner's Guide to Artificial Intelligence (AI)
+
 1. Introduction to AI
 
 Overview of AI and Its Importance
@@ -141,7 +143,7 @@ Project: CartPole game balancing
 Dataset/Env: OpenAI Gym CartPole
 
 5. Community and Support
-Kaggle — Competitions, notebooks, datasets
+Kaggle Competitions, notebooks, datasets
 Reddit AI
 Hugging Face Forums
 Machine Learning Discords
